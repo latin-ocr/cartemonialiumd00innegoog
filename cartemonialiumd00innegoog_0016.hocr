@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cartemonialiumd00innegoog_0016.png"; bbox 0 0 1219 1538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 175 609 219">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 175 609 219">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 175 609 219; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 428 175 609 219; x_wconf 77' lang='lat' dir='ltr'><strong>OARTE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 99 350 937 463">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 99 316 937 463">
+     <span class='ocr_line' id='line_1_2' title="bbox 99 350 937 396; baseline -0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 99 350 423 395; x_wconf 88' lang='lat' dir='ltr'><strong>MONIALIUM.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 445 351 509 394; x_wconf 89' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 546 350 937 396; x_wconf 73' lang='lat' dir='ltr'>NORTHBERWIC</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 302 428 384 463; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 302 428 329 443; x_wconf 65' lang='lat'><strong>‘⁰</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 360 428 384 463; x_wconf 66' lang='grc' dir='ltr'>Ἷ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 264 546 774 596">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 264 546 774 596">
+     <span class='ocr_line' id='line_1_4' title="bbox 264 546 774 596; baseline 0 -20"><span class='ocrx_word' id='word_1_7' title='bbox 264 546 470 589; x_wconf 76' lang='lat' dir='ltr'><strong>PRIORATUS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 496 546 774 596; x_wconf 65' lang='lat' dir='ltr'><strong>OISTERQIENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 141 682 896 718">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 141 682 896 718">
+     <span class='ocr_line' id='line_1_5' title="bbox 141 682 896 718; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 141 683 181 718; x_wconf 89' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 215 682 379 717; x_wconf 86' lang='lat' dir='ltr'><strong>MARIE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 411 682 477 718; x_wconf 92' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 508 682 896 718; x_wconf 85' lang='lat' dir='ltr'>NORTHBERWIC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 321 817 723 848">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 321 817 723 848">
+     <span class='ocr_line' id='line_1_6' title="bbox 321 817 723 848; baseline 0.002 -1"><span class='ocrx_word' id='word_1_13' title='bbox 321 817 537 847; x_wconf 84' lang='lat' dir='ltr'><strong>MUNIMENTA</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 560 818 723 848; x_wconf 86' lang='lat' dir='ltr'><strong>VETUSTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 381 944 657 980">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 381 944 657 980">
+     <span class='ocr_line' id='line_1_7' title="bbox 381 944 657 980; baseline -0.004 -5"><span class='ocrx_word' id='word_1_15' title='bbox 381 945 444 980; x_wconf 86' lang='lat' dir='ltr'><strong>QUE</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 469 944 657 975; x_wconf 85' lang='lat' dir='ltr'>SUPERSUNT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
